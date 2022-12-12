@@ -13,8 +13,15 @@ A tool to secure your Java program.
     * Linux Host
         * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/linux-amd64.zip)
         * [32-bit](https://github.com/saphirepankaj/jexec-build/blob/main/linux-i386.zip)
-* Unzip the zip file, open a commnd line tool
-* Run the **JExec.jar** program
+* Unzip and run the **JExec.jar** program
     ```
     java -jar JExec.jar
-    ```
+    ``` 
+* To Secure your Java program
+  * Browse the *"Source Jar File"*
+  * Provide the *"Main Class Name"*
+  * (optional) Change the *"Splash Screen File"*
+  * Browse the "Destination Zip File"
+  * Click on "Convert and Save"
+### Your Java program now successfully converted into a new Jar file (JExec.jar) in the output zip file.
+### Extract the output zip file and run the new **JExec.jar** Java program to start your Java Program
