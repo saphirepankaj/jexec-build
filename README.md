@@ -1,8 +1,15 @@
 # [JExec Build](https://github.com/saphirepankaj/jexec-build)
 
-A tool to secure your Java program.
+JExec Build is a powerful tool to protect your Java program.
 
-## Quick start
+You can protect your java program and prevent decompilation of java classes and jar files.
+
+* Supports Java 6 or above!
+* Simple to use!
+* No dependencies!
+* Lightweight!
+
+### Quick start
 
 * [Download the latest zip file](https://github.com/saphirepankaj/jexec-build).
     * Windows Host
@@ -17,11 +24,13 @@ A tool to secure your Java program.
     ```
     java -jar JExec.jar
     ``` 
-* To Secure your Java program
+* To project your Java program
   * Browse the *"Source Jar File"*
   * Provide the *"Main Class Name"*
   * (optional) Change the *"Splash Screen File"*
   * Browse the "Destination Zip File"
   * Click on "Convert and Save"
+
 ### Your Java program now successfully converted into a new Jar file (JExec.jar) in the output zip file.
-### Extract the output zip file and run the new **JExec.jar** Java program to start your Java Program
+
+Extract the output zip file and run the new **JExec.jar** Java program
