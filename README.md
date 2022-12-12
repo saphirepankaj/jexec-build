@@ -4,10 +4,11 @@ JExec Build is a powerful tool to protect your Java program.
 
 You can protect your java program and prevent decompilation of java classes and jar files.
 
-* Supports Java 6 or above!
-* Simple to use!
-* No dependencies!
-* Lightweight!
+* Supports Java 6 or above
+* Offline uses
+* No dependencies
+* Easy to use
+* Lightweight
 
 ### Quick start
 
