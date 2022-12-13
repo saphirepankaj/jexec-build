@@ -29,6 +29,7 @@ You can protect your java program and prevent decompilation of java classes and 
   * Provide the *"Main Class Name"*
   * (optional) Change the *"Splash Screen File"*
   * Browse the "Destination Zip File"
+  * Choose the "Target Operating System"
   * Click on "Convert and Save"
 
 ### Your Java program now successfully converted into a new Jar file (JExec.jar) in the output zip file.
