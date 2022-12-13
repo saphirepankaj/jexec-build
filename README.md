@@ -13,14 +13,14 @@ You can protect your java program and prevent decompilation of java classes and 
 ### Quick start
 
 * [Download the latest zip file](https://github.com/saphirepankaj/jexec-build).
-    * Windows Host
-        * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/win-amd64.zip)
-        * [32-bit](https://github.com/saphirepankaj/jexec-build/blob/main/win-x86.zip)
-    * Mac OS Host
-        * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/mac-x86_64.zip)
     * Linux Host
         * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/linux-amd64.zip)
         * [32-bit](https://github.com/saphirepankaj/jexec-build/blob/main/linux-i386.zip)
+    * Mac OS Host
+        * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/mac-x86_64.zip)
+    * Windows Host
+        * [64-bit](https://github.com/saphirepankaj/jexec-build/blob/main/win-amd64.zip)
+        * [32-bit](https://github.com/saphirepankaj/jexec-build/blob/main/win-x86.zip)
 * Unzip and run the **JExec.jar** program
     ```
     java -jar JExec.jar
